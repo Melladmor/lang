@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Besley:ital@1&display=swap');
+
+
+
+
+
+#lang_select{
+    max-width: 15%;
+}
+
+#fotter_card{
+margin-left: 5% !important;
+}
+#title{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+    font-family: 'Besley', serif;
+}
+#body{
+    background: linear-gradient(to right, #e0eafc, #cfdef3);
+}
+#alert{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+#text1{
+    font-family: 'Besley', serif;
+}
+#text2{
+    font-family: 'Besley', serif;
+}
+
